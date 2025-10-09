@@ -14,6 +14,9 @@ elif operation == "**":
 # New operation
 elif  operation == "//":
     print(n1 // n2)
+# New operation
+elif operation == "%":
+    print(n1 % n2)
 else:
     print(n1 / n2)
 

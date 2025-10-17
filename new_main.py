@@ -17,6 +17,9 @@ elif  operation == "//":
 # New operation
 elif operation == "%":
     print(n1 % n2)
+elif operation == "/help":
+    print("Извените, в данный момент, я не могу вам помочь")
+#Remember guys it!!
 else:
     print(n1 / n2)
 
